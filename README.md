@@ -64,10 +64,7 @@ Please find me on [LinkedIn](https://www.linkedin.com/in/iuricode/) for a more d
 <div align="left">
   <h3><b>📍 Profile Visitor Count</b></h3>
 </div>
-<a href="https://github.com/devrgomes"> <img align="right" src="https://img.shields.io/static/v1?label=Overview&message=devrgomes&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub"></a>
+<a href="https://github.com/devrgomes"> <img align="right" src="https://img.shields.io/static/v1?label=GitHub&message=devrgomes&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub"></a>
 <p align="left">
-  <img
-    src="https://profile-counter.glitch.me/devrgomes/count.svg"
-    alt="Número de visitantes no perfil"
-  />
+  <img src="https://profile-counter.glitch.me/devrgomes/count.svg" alt="Número de visitantes no perfil"/>
 </p>
