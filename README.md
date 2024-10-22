@@ -1,13 +1,13 @@
 <img align="left" width=100% bottom=50px src="https://github.com/user-attachments/assets/3e713612-b324-4509-bbcc-0ce9bf7a33b5"/>
 
-<h1> About Me:</h1>
+## ⮑ About Me:
 
 <img align="right" src=https://github.com/user-attachments/assets/2c3d328b-54fb-441a-8138-dff9b418bb53/>
 <h3>Hey, I'm Rian Gomes. I'm a web developer with a passion for creating intuitive and efficient experiences. <br> Beyond web development, I love challenging myself by exploring different programming languages and diving into new areas of technology, <br> always looking to broaden my skills and stay ahead in the tech world.</h3>
 
 ---
 
-### ⚙️ GitHub Analytics
+## ⮑ GitHub Analytics
 
 <table>
   <tr>
@@ -38,7 +38,7 @@
 
 ---
 
-<h2>Contacts</h2>
+## ⮑ Contacts
 
 <p align="left">
   <a href="#" title="Gmail">
