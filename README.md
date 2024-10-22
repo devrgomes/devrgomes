@@ -66,6 +66,17 @@
 
 ---
 
+## ⮑ Streaming
+
+<p align="left">
+  <a href="https://www.youtube.com/@DEVRGomes" title="YouTube">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white" alt="YouTube"/></a>
+  <a href="https://www.twitch.tv/devrgomes" title="Twitch">
+  <img src="https://img.shields.io/badge/Twitch-9146FF?style=flat&logo=twitch&logoColor=white" alt="Twitch"/></a>
+</p>
+
+---
+
 ## ⮑ Contacts
 
 <p align="left">
@@ -82,7 +93,7 @@
 </p>
 <br>
 
-Please find me on [LinkedIn](https://www.linkedin.com/in/iuricode/) for a more detailed description of my work experience, education, and certifications.
+Please find me on [LinkedIn](https://www.linkedin.com/in/devrgomes/) for a more detailed description of my work experience, education, and certifications.
 
 ---
 
