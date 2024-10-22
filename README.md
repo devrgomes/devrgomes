@@ -38,6 +38,27 @@
 
 ---
 
+## ⮑ My Skills
+
+**Languages**
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+
+**Frameworks**
+
+**Libraries**
+
+**Data**
+
+
+**Studying**
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+---
+
 ## ⮑ Contacts
 
 <p align="left">
@@ -52,6 +73,7 @@
   <a href="https://www.intagram.com/devrgomes" title="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM" alt="Instagram"/></a>
 </p>
+<br>
 
 Please find me on [LinkedIn](https://www.linkedin.com/in/iuricode/) for a more detailed description of my work experience, education, and certifications.
 
