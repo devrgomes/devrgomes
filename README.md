@@ -43,8 +43,6 @@
 <p align="left">
   <a href="https://mail.google.com/mail/u/1/?hl=en&tf=cm&fs=1&to=devrgomes@gmail.com" title="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
-  <a href="#" title="Outlook">
-  <img src="https://img.shields.io/badge/-Microsoft_Outlook-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=LINK-DO-SEU-INSTAGRAM" alt="Outlook"/></a>
   <a href="https://www.linkedin.com/in/devrgomes/" title="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
   <a href="https://t.me/DEVRGomes" title="Telegram">
