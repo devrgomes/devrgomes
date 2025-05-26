@@ -3,7 +3,8 @@
 ## ⮑ About Me:
 
 <img align="right" src=https://github.com/user-attachments/assets/2c3d328b-54fb-441a-8138-dff9b418bb53/>
-<h3>Hey, I'm Rian Gomes. I'm a web developer with a passion for creating intuitive and efficient experiences. <br> Beyond web development, I love challenging myself by exploring different programming languages and diving into new areas of technology, <br> always looking to broaden my skills and stay ahead in the tech world.</h3>
+<h3> Hello! I am a Java developer in training, passionate about technology, software development, and problem-solving. <br>
+I am currently deepening my knowledge in the Java stack, focusing on backend development using Spring Boot, REST APIs, databases, and software development best practices.</h3>
 
 ---
 
@@ -12,9 +13,10 @@
 <table>
   <tr>
     <td>
+      <br />
       <img
         align="left"
-        src="https://github-readme-stats.vercel.app/api?username=devrgomes&theme=dark&hide_border=false&include_all_commits=true"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=devrgomes&theme=dark&hide_border=false"
         alt="Github Stats"
       />
     </td>
@@ -22,14 +24,6 @@
       <img
         align="left"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=devrgomes&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
-        alt="Github Stats"
-      />
-    </td>
-    <td>
-      <br />
-      <img
-        align="left"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=devrgomes&theme=dark&hide_border=false"
         alt="Github Stats"
       />
     </td>
@@ -45,38 +39,15 @@
 
 **- Languages:**
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
 
 **- Frameworks:**
 
-![Angular](https://img.shields.io/badge/AngularJS-E23237?style=flat&logo=angularjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white)
+...
 
 **- Data:**
 
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)
-![PostegreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-
-**- Studying:**
-
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-
----
-
-## ⮑ Streaming
-
-<p align="left">
-  <a href="https://www.youtube.com/@DEVRGomes" title="YouTube">
-  <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white" alt="YouTube"/></a>
-  <a href="https://www.twitch.tv/devrgomes" title="Twitch">
-  <img src="https://img.shields.io/badge/Twitch-9146FF?style=flat&logo=twitch&logoColor=white" alt="Twitch"/></a>
-</p>
 
 ---
 
