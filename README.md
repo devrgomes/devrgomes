@@ -14,13 +14,40 @@
 </p>
 <br>
 
-Please find me on [LinkedIn](https://www.linkedin.com/in/devrgomes/) for a more detailed description of my work experience, education, and certifications.
-
 ---
 
 ## 👤 About Me
 
-I'm a Java developer who is currently studying and improving my skills to grow professionally in the software development field. I'm passionate about solving problems, learning new technologies, and building efficient, scalable solutions. I constantly seek to deepen my knowledge in Java and related technologies to become a more complete developer.
+Perfeito. Aqui está a tradução direta:
+
+---
+
+## 🇧🇷 **Sobre Mim**
+
+Sou desenvolvedor Java focado em aprimorar minhas habilidades e crescer profissionalmente na área de desenvolvimento de software.
+
+Atualmente me aprimorando em:
+
+* Java
+* SQL
+* Java EE (Servlets, JSP)
+* RESTful APIs
+* JPA / Hibernate
+* Spring Boot
+* NoSQL
+* JUnit / Selenium
+* Spring Security
+* Docker
+* AWS (EC2, S3, RDS)
+* Microservices
+
+
+
+Please find me on [LinkedIn](https://www.linkedin.com/in/devrgomes/) for a more detailed description of my work experience, education, and certifications.
+
+---
+
+Se quiser, posso transformar isso em um modelo pronto para LinkedIn ou currículo.
 
 ## ⮑ My Skills
 
