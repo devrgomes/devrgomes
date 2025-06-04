@@ -18,15 +18,9 @@
 
 ## 👤 About Me
 
-Perfeito. Aqui está a tradução direta:
+I'm a Java developer focused on improving my skills and growing professionally in software development.
 
----
-
-## 🇧🇷 **Sobre Mim**
-
-Sou desenvolvedor Java focado em aprimorar minhas habilidades e crescer profissionalmente na área de desenvolvimento de software.
-
-Atualmente me aprimorando em:
+Currently improving my skills in:
 
 * Java
 * SQL
