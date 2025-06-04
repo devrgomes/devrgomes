@@ -40,8 +40,6 @@ Please find me on [LinkedIn](https://www.linkedin.com/in/devrgomes/) for a more 
 
 ---
 
-Se quiser, posso transformar isso em um modelo pronto para LinkedIn ou currículo.
-
 ## ⮑ My Skills
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
