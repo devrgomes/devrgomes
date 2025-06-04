@@ -1,4 +1,4 @@
-## 👋 Hello, I'm Rian Gomes
+# 👋 Hello, I'm Rian Gomes
 
 ## ✉️ Contacts
 
@@ -17,6 +17,10 @@
 Please find me on [LinkedIn](https://www.linkedin.com/in/devrgomes/) for a more detailed description of my work experience, education, and certifications.
 
 ---
+
+## 👤 About Me
+
+I'm a Java developer who is currently studying and improving my skills to grow professionally in the software development field. I'm passionate about solving problems, learning new technologies, and building efficient, scalable solutions. I constantly seek to deepen my knowledge in Java and related technologies to become a more complete developer.
 
 ## ⮑ My Skills
 
