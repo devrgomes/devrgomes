@@ -32,7 +32,7 @@ Currently improving my skills in:
 * JUnit / Selenium
 * Spring Security
 * Docker
-* AWS (EC2, S3, RDS)
+* AWS
 * Microservices
 
 
