@@ -57,29 +57,29 @@ Please find me on [LinkedIn](https://www.linkedin.com/in/devrgomes/) for a more 
 
 ## ⮑ GitHub Analytics
 
-<table>
+<div>
   <tr>
     <td>
       <br />
-      <img
-        align="left"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=devrgomes&theme=dark&hide_border=false"
-        alt="Github Stats"
-      />
+          <img 
+            height=200 align="right" 
+            src="https://github-readme-stats.vercel.app/api?username=devrgomes&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+            alt="Github Stats"
+          />
     </td>
     <td>
       <img
-        align="left"
+        height= 180 align="left"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=devrgomes&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
         alt="Github Stats"
       />
     </td>
   </tr>
-</table>
+</div>
 
 ---
-
-<div align="left">
+</br>
+<div>
   <h3><b>📍 Profile Visitor Count</b></h3>
 </div>
 <a href="https://github.com/devrgomes"> <img align="right" src="https://img.shields.io/static/v1?label=GitHub&message=devrgomes&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub"></a>
