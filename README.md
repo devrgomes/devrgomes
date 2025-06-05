@@ -36,7 +36,7 @@
 
 ##  My Skills
 
-
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 
 ---
 
@@ -47,7 +47,7 @@
       alt="Git Stats"
       height=150 
       align="center" 
-      src="https://github-readme-stats.vercel.app/api?username=devrgomes&hide=contribs,issues&bg_color=00000000&title_color=970700&text_color=FFFFFF&icons_color=FFFFFF" 
+      src="https://github-readme-stats.vercel.app/api?username=devrgomes&include_all_commits=true&hide=contribs,issues&card_width=500&theme=dark" 
       />
   </a>
   <a href="https://github.com/anuraghazra/convoychat">
@@ -55,7 +55,7 @@
       alt="Git Statis"
       height=150 
       align="center" 
-      src="https://github-readme-stats.vercel.app/api/top-langs?username=devrgomes&layout=compact&langs_count=8&card_width=320&bg_color=00000000&title_color=970700&text_color=FFFFFF&icons_color=FFFFFF"
+      src="https://github-readme-stats.vercel.app/api/top-langs?username=devrgomes&layout=compact&card_width=385&theme=dark"
       />
   </a>
   
