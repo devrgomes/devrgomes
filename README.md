@@ -1,5 +1,11 @@
 # 👋 Hello, I'm Rian Gomes
 
+Sou estudante do 4º semestre de Ciência da Computação na FADERGS, com foco em ingressar na área de Desenvolvimento de Software. Atualmente, estou me dedicando ao estudo e aprimoramento contínuo em Java, com o objetivo de evoluir profissionalmente como desenvolvedor backend.
+
+Tenho interesse em resolver problemas através da programação, aprender novas tecnologias e construir soluções eficientes e escaláveis. Busco constantemente aprofundar meus conhecimentos em Java e em tecnologias relacionadas, visando me tornar um desenvolvedor completo e preparado para os desafios do mercado.
+
+Aqui no GitHub, compartilho meus projetos, estudos, experimentos e entre outros — sempre com o objetivo de aprender mais.
+
 ## ✉️ Contacts
 
   <p align="left">
@@ -11,11 +17,9 @@
 
 ---
 
-## 👤 About Me
-
-  I'm a Java developer focused on improving my skills and growing professionally in software development.
+## 👤 Technologies I'm studying
   
-  Currently improving my skills in:
+  Atualmente, estou aprimorando minhas habilidades em:
   
   * Java
   * SQL
@@ -30,13 +34,13 @@
   * AWS
   * Microservices
   
-  Please find me on [LinkedIn](https://www.linkedin.com/in/devrgomes/) for a more detailed description of my work experience, education, and certifications.
+  Encontre-me no [LinkedIn](https://www.linkedin.com/in/devrgomes/) para uma descrição mais detalhada da minha experiência profissional, formação e certificações.
 
 ---
 
 ##  My Skills
 
-<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css"/>
 
 ---
 
