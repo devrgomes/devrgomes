@@ -49,7 +49,7 @@ Aqui no GitHub, compartilho meus projetos, estudos, experimentos e entre outros 
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img 
       alt="Git Stats"
-      height=150 
+      height=120 
       align="center" 
       src="https://github-readme-stats.vercel.app/api?username=devrgomes&include_all_commits=true&hide=contribs,issues&card_width=500&theme=dark" 
       />
@@ -57,7 +57,7 @@ Aqui no GitHub, compartilho meus projetos, estudos, experimentos e entre outros 
   <a href="https://github.com/anuraghazra/convoychat">
     <img 
       alt="Git Statis"
-      height=150 
+      height=120
       align="center" 
       src="https://github-readme-stats.vercel.app/api/top-langs?username=devrgomes&layout=compact&card_width=385&theme=dark"
       />
