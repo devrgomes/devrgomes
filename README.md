@@ -37,12 +37,12 @@ Aqui no GitHub, compartilho meus projetos, estudos, experimentos e entre outros 
   Encontre-me no [LinkedIn](https://www.linkedin.com/in/devrgomes/) para uma descrição mais detalhada da minha experiência profissional, formação e certificações.
 
 ---
-
+<!--
 ##  My Skills
 
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css"/>
 
----
+--->
 
 ## ⮑ GitHub Analytics
 
