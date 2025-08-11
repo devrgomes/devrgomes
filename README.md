@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Rian Gomes
 
-Sou estudante do 4º semestre de Ciência da Computação na FADERGS, com foco em ingressar na área de Desenvolvimento de Software. Atualmente, estou me dedicando ao estudo e aprimoramento contínuo em Java, com o objetivo de evoluir profissionalmente como desenvolvedor backend.
+Sou estudante do 5º semestre de Ciência da Computação na FADERGS, com foco em ingressar na área de Desenvolvimento de Software. Atualmente, estou me dedicando ao estudo e aprimoramento contínuo em Java, com o objetivo de evoluir profissionalmente como desenvolvedor backend.
 
 Tenho interesse em resolver problemas através da programação, aprender novas tecnologias e construir soluções eficientes e escaláveis. Busco constantemente aprofundar meus conhecimentos em Java e em tecnologias relacionadas, visando me tornar um desenvolvedor completo e preparado para os desafios do mercado.
 
