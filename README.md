@@ -1,12 +1,12 @@
 # 👋 Olá, me chamo Rian Gomes
 
-Sou estudante do 5º semestre de Ciência da Computação na FADERGS, com foco em ingressar na área de Desenvolvimento de Software. Atualmente, estou me dedicando aos estudo em Java, com o objetivo de evoluir profissionalmente como desenvolvedor backend.
+Sou estudante do 5º semestre de Ciência da Computação na FADERGS, com foco em ingressar na área de Desenvolvimento de Software, com foco no back end. Atualmente, estou me dedicando aos estudo em Java.
 
-Tenho interesse em resolver problemas através da programação, aprender novas tecnologias e construir soluções eficientes e escaláveis. Busco constantemente aprofundar meus conhecimentos em Java e em tecnologias relacionadas, visando me tornar um desenvolvedor completo e preparado para os desafios do mercado.
+Meu interesse é em resolver problemas através da programação, aprender novas tecnologias e construir soluções eficientes e escaláveis. Busco constantemente ampliar meus conhecimentos em Java e em tecnologias relacionadas, visando me tornar um desenvolvedor completo. A.
 
-Aqui no GitHub, compartilho meus projetos, estudos, experimentos e entre outros — sempre com o objetivo de aprender mais.
+Aqui no GitHub, compartilho meus projetos, estudos e entre outros — sempre com o objetivo de me aprimorar cada vez mais.
 
-## ✉️ Contacts
+## ✉️ Contatos
 
   <p align="left">
     <a href="https://mail.google.com/mail/u/1/?hl=en&tf=cm&fs=1&to=devrgomes@gmail.com" title="Gmail">
@@ -17,28 +17,18 @@ Aqui no GitHub, compartilho meus projetos, estudos, experimentos e entre outros 
 
 ---
 
-## 👤 Technologies I'm studying
+## 👤 Technologias que estou estudando
   
   Atualmente, estou aprimorando minhas habilidades em:
   
   * Java
   * SQL
-  * Java EE (Servlets, JSP)
   * RESTful APIs
-  * JPA / Hibernate
-  * Spring Boot
-  * NoSQL
-  * JUnit / Selenium
-  * Spring Security
-  * Docker
-  * AWS
-  * Microservices
   
   Encontre-me no [LinkedIn](https://www.linkedin.com/in/devrgomes/) para uma descrição mais detalhada da minha experiência profissional, formação e certificações.
 
 ---
 <!--
-##  My Skills
 
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css"/>
 
