@@ -6,11 +6,11 @@ Meu interesse é em resolver problemas através da programação, aprender novas
 
 Aqui no GitHub, compartilho meus projetos, estudos e entre outros — sempre com o objetivo de me aprimorar cada vez mais.
 
-### ✉️ Contatos
+## ✉️ Contatos
 
   <p align="left">
     <a href="https://mail.google.com/mail/u/1/?hl=en&tf=cm&fs=1&to=devrgomes@gmail.com" title="Gmail">
-    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
+    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=https://mail.google.com/mail/u/1/?hl=en&tf=cm&fs=1&to=devrgomes@gmail.com" alt="Gmail"/></a>
     <a href="https://www.linkedin.com/in/devrgomes/" title="LinkedIn">
     <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/devrgomes/" alt="LinkedIn"/></a>
   </p>
@@ -32,49 +32,30 @@ Aqui no GitHub, compartilho meus projetos, estudos e entre outros — sempre com
   * CSS
   * JavaScript
   * React
-  
-  Encontre-me no [LinkedIn](https://www.linkedin.com/in/devrgomes/) para uma descrição mais detalhada da minha experiência profissional, formação e certificações.
-
----
-
-## Tecnologias Principais
 
 <div style="display: inline_block"><br>
   <img align="center" alt="DevRGomes-Java"   height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/> 
   <img align="center" alt="DevRGomes-MySQL"  height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/> 
   <img align="center" alt="DevRGomes-Spring" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"/> 
   <img align="center" alt="DevRGomes-Git"    height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
+  <img align="center" alt="DevRGomes-HTML"   height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
+  <img align="center" alt="DevRGomes-CSS"    height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
+  <img align="center" alt="DevRGomes-JS"     height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
+  <img align="center" alt="DevRGomes-React"  height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/>
 </div>
 
-## Tecnologias Secundarias
+##
 
-<div style="display: inline_block"><br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" height="40"/>
-</div>
+Encontre-me no [LinkedIn](https://www.linkedin.com/in/devrgomes/) para uma descrição mais detalhada da minha experiência profissional, formação e certificações.
 
 ---
 
 ## ⮑ Análise do GitHub
 
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img 
-      alt="Git Stats"
-      height=125 
-      align="center" 
-      src="https://github-readme-stats.vercel.app/api?username=devrgomes&include_all_commits=true&hide=contribs,issues&card_width=500&theme=dark" 
-      />
-  </a>
+  <img alt="Git Stats" height=125 align="center" src="https://github-readme-stats.vercel.app/api?username=devrgomes&include_all_commits=true&hide=contribs,issues&card_width=500&theme=dark"/></a>
   <a href="https://github.com/anuraghazra/convoychat">
-    <img 
-      alt="Git Statis"
-      height=135
-      align="center" 
-      src="https://github-readme-stats.vercel.app/api/top-langs?username=devrgomes&layout=compact&card_width=385&theme=dark"
-      />
-  </a>
+  <img alt="Git Statis" height=135 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=devrgomes&layout=compact&card_width=385&theme=dark"/></a>
   
 ---
 
