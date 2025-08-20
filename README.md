@@ -54,7 +54,7 @@ Aqui no GitHub, compartilho meus projetos, estudos e entre outros — sempre com
   <a href="https://github.com/anuraghazra/convoychat">
     <img 
       alt="Git Statis"
-      height=125
+      height=150
       align="center" 
       src="https://github-readme-stats.vercel.app/api/top-langs?username=devrgomes&layout=compact&card_width=385&theme=dark"
       />
