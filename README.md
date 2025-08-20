@@ -50,7 +50,7 @@ Encontre-me no [LinkedIn](https://www.linkedin.com/in/devrgomes/) para uma descr
 
 ---
 
-## ⮑ Análise do GitHub
+## ⮑ Análises do GitHub
 
   <a href="https://github.com/anuraghazra/github-readme-stats">
   <img alt="Git Stats" height=125 align="center" src="https://github-readme-stats.vercel.app/api?username=devrgomes&include_all_commits=true&hide=contribs,issues&card_width=500&theme=dark"/></a>
