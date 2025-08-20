@@ -62,11 +62,5 @@ Aqui no GitHub, compartilho meus projetos, estudos e entre outros — sempre com
   
 ---
 
-<br>
-<div>
-  <h3><b>📍 Visitas ao Perfil </b></h3>
-</div>
 <a href="https://github.com/devrgomes"> <img align="right" src="https://img.shields.io/static/v1?label=GitHub&message=devrgomes&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub"></a>
 <p align="left">
-  <img src="https://profile-counter.glitch.me/devrgomes/count.svg" alt="Número de visitantes no perfil"/>
-</p>
