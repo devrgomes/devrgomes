@@ -2,7 +2,7 @@
 
 Sou estudante do 5º semestre de Ciência da Computação na FADERGS, com foco em ingressar na área de Desenvolvimento de Software, com foco no back end. Atualmente, estou me dedicando aos estudo em Java.
 
-Meu interesse é em resolver problemas através da programação, aprender novas tecnologias e construir soluções eficientes e escaláveis. Busco constantemente ampliar meus conhecimentos em Java e em tecnologias relacionadas, visando me tornar um desenvolvedor completo. A.
+Meu interesse é em resolver problemas através da programação, aprender novas tecnologias e construir soluções eficientes. Busco constantemente ampliar meus conhecimentos em Java e em tecnologias relacionadas, visando me tornar um desenvolvedor completo. Além disso, gosto de aproveitar parte do meu tempo livre para estudar outras áreas da programação, como HTML, CSS, JavaScript e React, ampliando minha visão e conhecimento, fortalecendo minha capacidade de criar mais soluções vinculando os dois conhecimentos.
 
 Aqui no GitHub, compartilho meus projetos, estudos e entre outros — sempre com o objetivo de me aprimorar cada vez mais.
 
@@ -24,6 +24,11 @@ Aqui no GitHub, compartilho meus projetos, estudos e entre outros — sempre com
   * Java
   * SQL
   * RESTful APIs
+
+  * HTML
+  * CSS
+  * JavaScript
+  * React
   
   Encontre-me no [LinkedIn](https://www.linkedin.com/in/devrgomes/) para uma descrição mais detalhada da minha experiência profissional, formação e certificações.
 
@@ -34,7 +39,7 @@ Aqui no GitHub, compartilho meus projetos, estudos e entre outros — sempre com
 
 --->
 
-## ⮑ GitHub Analytics
+## ⮑ Análise do GitHub
 
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img 
@@ -57,7 +62,7 @@ Aqui no GitHub, compartilho meus projetos, estudos e entre outros — sempre com
 
 <br>
 <div>
-  <h3><b>📍 Profile Visitor Count</b></h3>
+  <h3><b>📍 Visitas ao Perfil </b></h3>
 </div>
 <a href="https://github.com/devrgomes"> <img align="right" src="https://img.shields.io/static/v1?label=GitHub&message=devrgomes&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub"></a>
 <p align="left">
