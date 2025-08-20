@@ -2,7 +2,7 @@
 
 Sou estudante do 5º semestre de Ciência da Computação na FADERGS, com foco em ingressar na área de Desenvolvimento de Software, com foco no back end. Atualmente, estou me dedicando aos estudo em Java.
 
-Meu interesse é em resolver problemas através da programação, aprender novas tecnologias e construir soluções eficientes. Busco constantemente ampliar meus conhecimentos em Java e em tecnologias relacionadas, visando me tornar um desenvolvedor completo. Além disso, gosto de aproveitar parte do meu tempo livre para estudar outras áreas da programação, como HTML, CSS, JavaScript e React, ampliando minha visão e conhecimento, fortalecendo minha capacidade de criar mais soluções vinculando os dois conhecimentos.
+Meu interesse é em resolver problemas através da programação, aprender novas tecnologias e construir soluções eficientes. Busco constantemente ampliar meus conhecimentos em Java e em tecnologias relacionadas, visando me tornar um desenvolvedor completo. Além disso, gosto de aproveitar parte do meu tempo livre para estudar outras áreas da programação, como HTML, CSS, JavaScript e React, ampliando minha visão e fortalecendo minha capacidade de integrar diferentes conhecimentos e áreas do desenvolvimento de software.
 
 Aqui no GitHub, compartilho meus projetos, estudos e entre outros — sempre com o objetivo de me aprimorar cada vez mais.
 
